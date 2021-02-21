@@ -1,4 +1,4 @@
-# Apple-HomeKit-Alarmanlage-Sounds
+# Apple-HomeKit-Alarmanlagen-Sounds
 ![HomeKit Logo](https://github.com/MrDrache333/Apple-HomeKit-Alarmanlage-Sounds/blob/main/homekit.jpg?raw=true)
 
 Eine Reihe an selbst aufgenommenen Sounds, für die Verwendung in HomeKit Automationen.
