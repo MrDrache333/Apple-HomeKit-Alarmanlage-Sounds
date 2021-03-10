@@ -16,3 +16,5 @@ Eine Reihe an selbst aufgenommenen Sounds, für die Verwendung in HomeKit Automa
 4. Wähle die zu spielende Sounddatei aus.
 
 <img src="https://github.com/MrDrache333/Apple-HomeKit-Alarmanlage-Sounds/blob/main/automation_3.jpg?raw=true" width=500px>
+
+<a href="https://www.buymeacoffee.com/MrDrache333" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height=40px alt="Buy Me A Coffee"></a>
